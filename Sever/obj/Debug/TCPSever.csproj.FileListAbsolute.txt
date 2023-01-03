@@ -1,0 +1,13 @@
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.exe.config
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.exe
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.pdb
+D:\VS2022\Save_file\Sever\bin\Debug\SuperSimpleTcp.dll
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.csproj.AssemblyReference.cache
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.csproj.SuggestedBindingRedirects.cache
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.Form1.resources
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.Properties.Resources.resources
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.csproj.GenerateResource.cache
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.csproj.CoreCompileInputs.cache
+D:\VS2022\Save_file\Sever\obj\Debug\TCPSever.csproj.CopyComplete
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.exe
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.pdb

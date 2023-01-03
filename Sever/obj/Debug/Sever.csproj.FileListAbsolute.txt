@@ -1,0 +1,11 @@
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.csproj.AssemblyReference.cache
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.csproj.SuggestedBindingRedirects.cache
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.Form1.resources
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.Properties.Resources.resources
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.csproj.GenerateResource.cache
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.exe.config
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.exe
+D:\VS2022\Save_file\Sever\bin\Debug\Sever.pdb
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.exe
+D:\VS2022\Save_file\Sever\obj\Debug\Sever.pdb
